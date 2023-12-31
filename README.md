@@ -96,7 +96,8 @@ if _name_ == '_main_':
 ![WhatsApp Image 2023-12-28 at 15 58 42_09cef64f](https://github.com/priyadharshini210/mobilerobot-openloopcontrol/assets/148514638/74d84e3a-39af-4ef2-97f3-f2a225f005f8)
 ![WhatsApp Image 2023-12-28 at 15 58 43_4d89273b](https://github.com/priyadharshini210/mobilerobot-openloopcontrol/assets/148514638/a3550017-e6a3-4862-8cc6-95636171fa87)
 ![WhatsApp Image 2023-12-28 at 15 58 42_53648319](https://github.com/priyadharshini210/mobilerobot-openloopcontrol/assets/148514638/e482c85f-c573-4e26-ba63-c7f8fd6079c0)
-![WhatsApp Image 2023-12-28 at 15 58 42_6817c012](https://github.com/priyadharshini210/mobilerobot-openloopcontrol/assets/148514638/0ad75949-f8e9-4c0b-a502-9e3d443c1fac)
+![WhatsApp Image 2023-12-28 at 15 58 43_9dc1716a](https://github.com/priyadharshini210/mobilerobot-openloopcontrol/assets/148514638/3e5475bd-1e4c-4903-ac4c-0af3cec2f95e)
+
 
 <br/>
 <br/>
